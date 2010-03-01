@@ -1,3 +1,4 @@
 Simple pastebin.com API wrapper module.
 
-To install it run 'python setup.py install'.
+To install it simply run 'python setup.py install'.
+
